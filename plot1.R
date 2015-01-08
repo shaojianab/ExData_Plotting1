@@ -6,4 +6,4 @@ hist(b,main="Global Active Power",xlab="Global Active Power(kilowatts)",col="red
 dev.off() 
 
 
-![plot1](http://raw.github.com/shaojianab/ExData_Plotting1/master/H:/Coursera/Exploratory Data Analysis/plot1.png)
+![plot1](H:/Coursera/Exploratory Data Analysis/plot1.png) 
